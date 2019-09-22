@@ -26,15 +26,15 @@ export EDITOR=vim
 export JAVA_HOME=$(/usr/libexec/java_home) 
 #========================= PATHS ===================================
 # Platform tools
-# export PATH="/Users/scheruiyot/platform-tools:$PATH"
+# export PATH="/Users/<USER>/platform-tools:$PATH"
 # Python tools
-export PATH="/Users/scheruiyot/Library/Python/3.6/bin:$PATH"
+export PATH="/Users/<USER>/Library/Python/3.6/bin:$PATH"
 # Flutter
-export PATH="/Users/scheruiyot/flutter/bin:$PATH"
+export PATH="/Users/<USER>/flutter/bin:$PATH"
 # NPM
-export PATH="/Users/scheruiyot/.npm-global/bin:$PATH"
+export PATH="/Users/<USER>/.npm-global/bin:$PATH"
 # Stack
-export PATH="/Users/scheruiyot/.local/bin:$PATH"
+export PATH="/Users/<USER>/.local/bin:$PATH"
 #===================================================================
 
 export CLICOLOR=1
