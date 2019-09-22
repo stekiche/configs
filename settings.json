@@ -1,0 +1,54 @@
+{
+  "files.associations": {
+      "*.sass": "sass"
+  },
+  "workbench.colorTheme": "Quiet Light",
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "vscode-great-icons",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "extensions.ignoreRecommendations": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true,
+      "suppressUpdateNotice": false,
+      "suppressWelcomeNotice": true
+  },
+  "python.pythonPath": "python3",
+  "python.linting.enabled": false,
+  "gitlens.keymap": "chorded",
+  "telemetry.enableTelemetry": false,
+  "editor.renderWhitespace": "boundary",
+  "explorer.openEditors.visible": 0,
+  "workbench.fontAliasing": "antialiased",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "markdown.preview.fontSize": 12,
+  "[python]": {},
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "explorer.confirmDragAndDrop": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "haskell.indentationRules.enabled": false
+}
